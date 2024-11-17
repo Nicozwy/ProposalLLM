@@ -1,5 +1,7 @@
 # ProposalLLM （Proposal-LLM Chinese version )
 
+https://my.oschina.net/SeaTunnel/blog/16513434
+
 If you want the English Version, please pick a issue.
 
 #Features of this Open-Source Software:
